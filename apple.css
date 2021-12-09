@@ -1,0 +1,365 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+.div1{
+    width: 100%;
+    height: 45px;
+    background-color: rgba(0, 0, 0, 0.897);
+    position: fixed;
+    z-index:1;
+    
+    
+}
+.div11{
+    width: 68%;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0px;
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+.logo{
+    width: 18px;
+}
+.div11 ul{
+    margin: 0px;
+    list-style: none;
+    font-size: 13px;
+    color: white;
+}
+.ul li{
+    display: inline;
+    padding-right: 33px;
+}
+.div2{
+    height: 28px;
+    width: 100%;
+    background-color: #f3f3f3d3;
+    position: relative;
+    
+    top: 45px;
+    
+    
+}
+.div2 label{
+    color: black;
+    position: relative;
+    top: 5px;
+    left: 500px;
+    text-align: center;
+    width: 500px;
+    font-size: 12px;
+}
+.div2 a{
+    font-size: 12px;
+    position: relative;
+    left: 500px;
+    top: 5px;
+    color: rgb(2, 117, 170);
+}
+.learnmoreimg{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
+}
+.div3{
+    width: 100%;
+    height: 560px;
+    background-color: black;
+    position: relative;
+    
+    background: url(https://www.apple.com/v/home/ai/images/heroes/iphone-13-pro/hero_iphone_13pro__dhnsegysa42u_large.jpg);
+    background-position: center;
+}
+.div4{
+    width: 100%;
+    height: 560px;
+    background-color: black;
+    position: relative;
+    top:-29px;
+    background: url(https://www.apple.com/v/home/ai/images/heroes/iphone-13/hero_iphone_13__f194u1rdooeq_large.jpg);
+    background-position: center;
+}
+.div5{
+    width: 100%;
+    height: 560px;
+    background-color: black;
+    position: relative;
+    top:-59px;
+    background: url(https://www.apple.com/v/home/ai/images/heroes/macbook-pro/hero_macbookpro__eatonjfwvuc2_large.jpg);
+    background-position: center;
+}
+.h2h{
+    font-size: 53px;
+    position: relative;
+    top: 60px;
+    
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+}
+.h3h{
+    font-size: 26px;
+    position: relative;
+    top: 20px;
+    color: black;
+    text-align: center;
+    font-weight: 400;
+}
+ .a1{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: 650px;
+    color: rgb(40, 143, 190);
+    text-decoration: none;
+}
+.a2{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: 680px;
+    color: rgb(40, 143, 190);
+    text-decoration: none;
+
+}
+.learnmoreimg1{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 2px;
+}
+.div61{
+    height: 560px;
+    width: 50%;
+    
+    background: url(https://www.apple.com/v/home/ai/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_large.jpg);
+    background-position: center;
+    float: left;
+}
+.div62{
+    height: 560px;
+    width: 50%;
+    
+    background: url(https://www.apple.com/v/home/ai/images/promos/ipad-mini/promo_ipad_mini__spq4zjcuuaie_large.jpg);
+    background-position: center;
+    float: left;
+}
+.div71{
+    height: 560px;
+    width: 50%;
+    
+    background: url(https://www.apple.com/v/home/ai/images/promos/airpods/tile_airpods__fuv6vgn42y2q_large.jpg);
+    background-position: center;
+    float: left;
+}
+.div72{
+    height: 560px;
+    width: 50%;
+    
+    background: url(https://www.apple.com/v/home/ai/images/promos/homepod-mini/tile_homepod_mini__b73w4z3ljymu_large.jpg);
+    background-position: center;
+    float: left;
+}
+.div81{
+    height: 560px;
+    width: 50%;
+    
+    background: url(https://www.apple.com/v/home/ai/images/promos/arcade-bundle/tile_arcade__ewkth5cd0wia_large.jpg);
+    background-position: center;
+    float: left;
+}
+.div82{
+    height: 560px;
+    width: 50%;
+    
+    background: url(https://www.apple.com/v/home/ai/images/promos/tv-plus-twas-the-fight-before-christmas/tile_twas_the_fight__b8651jzbtcb6_large.jpg);
+    background-position: center;
+    float: left;
+}
+.div4h4{
+
+    font-size: 40px;
+    position: relative;
+    top: 0px;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 3%;
+    margin-top: 0%;
+  
+}
+.div4h5{
+    text-align: center;
+    margin: 0%;
+    color: red;
+    position: relative;
+    top: -10px;
+}
+.div4h3{
+    font-size: 21px;
+    line-height: 1.2px;
+    font-weight: 400;
+    margin: 0%;
+    text-align: center;
+}
+.div4h31{
+    font-size: 21px;
+    line-height: 1.2px;
+    font-weight: 400;
+    margin-top: 19px;
+    text-align: center;
+    display: block;
+}
+.a12{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: 300px;
+    color: rgb(40, 143, 190);
+    text-decoration: none;
+}
+.a22{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: 320px;
+    color: rgb(40, 143, 190);
+    text-decoration: none;
+
+}
+.learnmoreimg12{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
+}
+.div4h6{
+    text-align: center;
+    position: relative;
+    top: 9px;
+    margin: 0%;
+    margin-bottom: 5px;
+    font-weight: 100;
+    color: rgb(241, 146, 2);
+}
+.textd{
+    margin-top: 20px;
+    height: 200px;
+}
+.textd1{
+    margin-top: 430px;
+}
+.img2{
+    position: relative;
+    top: 4px;
+    width: 35px;
+}
+.xmas{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 130px;
+    margin-top: 75PX;
+    
+}
+.xmas1{
+    font-size: 140px;
+    color: rgb(255, 255, 255);
+    float: left;
+    margin-top: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.xmas2{
+    font-size: 60px;
+    color: white;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.div821{
+    width: 500px;
+    height: 100px;
+    position: relative;
+    top: -130px;
+    left: 120px;
+}
+.div82 a{
+    font-size: 25px;
+    position: relative;
+    left: -150px;
+    top: 170px;
+    color: rgb(24, 76, 153);
+}
+.playbc{
+    width: 10px;
+    height: 5px;
+    
+}
+.div9{
+    width: 100%;
+    height: 830px;
+    background-color: #f5f5f7;
+    position: relative;
+    display: block;
+    float: left;
+}
+.div91{
+    width: 70%;
+    height: 800px;
+    
+    margin-left: 200px;
+}
+.div911{
+    margin-top: 20px;
+    width: 100%;
+    height: 250px;
+    
+}
+.div911 p{
+    font-size: 12px;
+}
+.div912{
+    margin-top: 20px;
+    width: 100%;
+    height: 350px;
+    
+}
+.div912x{
+    float: left;
+    font-size:12px ;
+    list-style: none;
+    margin-left: 40px;
+}
+.footer{
+    display: block;
+    position: relative;
+    left: 0;
+    top: 40px;
+    width: 1060px;
+    height: 50px;
+    
+    float: left;
+}
+.footer p{
+    font-size: 10px;
+}
+.footer pre{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -30px;
+    top: -10px;
+}
+.top{
+    text-decoration: none;
+    color: white;
+}
+
